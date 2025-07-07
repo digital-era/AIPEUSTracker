@@ -1,0 +1,41 @@
+name: Update US Market Data
+
+on:
+  workflow_dispatch: # 允许手动触发
+  schedule:
+    # 在美东时间周一至周五的交易时段内运行 (大约从 9:30 AM 到 4:00 PM EST)
+    # UTC时间是 EST+5 或 EDT+4。这里设置为每15分钟运行一次，从 UTC 14:00 到 21:59。
+    - cron: '*/15 14-21 * * 1-5'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas pytz
+
+      - name: Run data update script
+        run: python update_us_data.py # 确保你的脚本文件名正确
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ # 只添加data目录下的文件
+          # 检查是否有文件被暂存，只有在有变化时才提交
+          if ! git diff --staged --quiet; then
+            git commit -m "Automated US market data update"
+            git push
+          else
+            echo "No changes to commit."
+          fi

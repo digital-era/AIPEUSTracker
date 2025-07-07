@@ -24,8 +24,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install yfinance pandas pytz
 
-      - name: Run data update script
-        run: python update_us_data.py # 确保你的脚本文件名正确
+      - name: Run python script
+        # 核心修改：确保运行的是根目录下的 index.py
+        run: python index.py
 
       - name: Commit and push if there are changes
         run: |

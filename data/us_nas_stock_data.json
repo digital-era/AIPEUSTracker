@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-08 20:45:43 UTC",
+    "update_time_utc": "2025-07-08 21:22:13 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
@@ -52,6 +52,11 @@
             "Percent": 0.3229633748266486
         },
         {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": 0.028577070476710157
+        },
+        {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
             "Percent": -0.2210090213006833
@@ -95,11 +100,6 @@
             "代码": "GOOGL",
             "名称": "Alphabet Inc.",
             "Percent": -1.3745080423462268
-        },
-        {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": -1.8391733064396638
         }
     ],
     "top_down_20": [
@@ -154,6 +154,11 @@
             "Percent": -0.2210090213006833
         },
         {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": 0.028577070476710157
+        },
+        {
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": 0.3229633748266486
@@ -197,11 +202,6 @@
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": 2.2403592018476264
-        },
-        {
-            "代码": "INTC",
-            "名称": "Intel Corporation",
-            "Percent": 7.227273420854048
         }
     ]
 }

@@ -9,7 +9,7 @@ import pytz
 # 纳斯达克100成分股 (示例列表，实际使用时建议从可靠来源动态获取或定期更新)
 # 为了简化，这里只列出一部分作为示例。请替换为完整的纳斯ДАК 100 列表。
 NAS_TICKERS = [
-    'AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'GOOG', 'TSLA', 'META', 'AVGO', 'PEP',
+    'AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'GOOG', 'TSLA', 'META', 'AVGO', 'PEP', 'NVDA',
     'COST', 'ADBE', 'CSCO', 'TMUS', 'NFLX', 'AMD', 'INTC', 'CMCSA', 'QCOM', 'INTU'
     # ... 添加更多股票代码
 ]

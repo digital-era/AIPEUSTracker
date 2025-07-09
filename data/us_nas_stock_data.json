@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-09 21:25:05 UTC",
+    "update_time_utc": "2025-07-09 21:42:29 UTC",
     "top_up_20": [
         {
             "代码": "AVGO",
@@ -97,9 +97,9 @@
             "Percent": -1.5214661808929997
         },
         {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": -1.5510461682314303
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -2.3179116727503826
         }
     ],
     "top_down_20": [
@@ -107,11 +107,6 @@
             "代码": "ADBE",
             "名称": "Adobe Inc.",
             "Percent": -2.3179116727503826
-        },
-        {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": -1.5510461682314303
         },
         {
             "代码": "INTU",
@@ -202,6 +197,11 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 1.8000030517578127
+        },
+        {
+            "代码": "AVGO",
+            "名称": "Broadcom Inc.",
+            "Percent": 2.2442996237961665
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-11 21:42:31 UTC",
+    "update_time_utc": "2025-07-11 21:53:56 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -45,6 +45,11 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 0.01649547837044554
+        },
+        {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.0
         },
         {
             "代码": "TMUS",
@@ -95,11 +100,6 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -1.6372770556045784
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": -2.1753726763036583
         }
     ],
     "top_down_20": [
@@ -159,6 +159,11 @@
             "Percent": -0.17093990799113806
         },
         {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.0
+        },
+        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 0.01649547837044554
@@ -197,11 +202,6 @@
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": 1.4605487716418433
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": 1.5676987024313933
         }
     ]
 }

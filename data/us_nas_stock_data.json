@@ -1,6 +1,11 @@
 {
-    "update_time_utc": "2025-07-12 17:39:30 UTC",
+    "update_time_utc": "2025-07-12 17:43:37 UTC",
     "top_up_20": [
+        {
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": 1.5676987024313933
+        },
         {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
@@ -95,11 +100,6 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -1.6372770556045784
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": -2.1753726763036583
         }
     ],
     "top_down_20": [

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-14 21:41:44 UTC",
+    "update_time_utc": "2025-07-14 21:52:51 UTC",
     "top_up_20": [
         {
             "代码": "CMCSA",
@@ -10,11 +10,6 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": 1.3524882153730104
-        },
-        {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": 1.090346157322668
         },
         {
             "代码": "TSLA",
@@ -100,6 +95,11 @@
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": -1.2028833590031116
+        },
+        {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": -2.013218145922509
         }
     ],
     "top_down_20": [
@@ -194,14 +194,14 @@
             "Percent": 1.0813001260768906
         },
         {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": 1.090346157322668
-        },
-        {
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": 1.3524882153730104
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 1.8576669905724978
         }
     ]
 }

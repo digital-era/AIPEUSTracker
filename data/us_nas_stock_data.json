@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-15 20:47:23 UTC",
+    "update_time_utc": "2025-07-15 21:22:39 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -87,6 +87,11 @@
             "Percent": -1.3487456373124918
         },
         {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -1.4606292669558354
+        },
+        {
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -1.6308977390959822
@@ -95,11 +100,6 @@
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -1.9312070795389793
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -2.5813641546035604
         }
     ],
     "top_down_20": [
@@ -117,6 +117,11 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -1.6308977390959822
+        },
+        {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -1.4606292669558354
         },
         {
             "代码": "COST",
@@ -197,11 +202,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 4.040951623121412
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": 6.407272131582009
         }
     ]
 }

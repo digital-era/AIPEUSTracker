@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-17 22:47:00 UTC",
+    "update_time_utc": "2025-07-18 01:46:33 UTC",
     "top_up_20": [
         {
             "代码": "PEP",
@@ -97,9 +97,9 @@
             "Percent": -0.702586399503704
         },
         {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": -0.7475765816217449
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": -0.9476255237625892
         }
     ],
     "top_down_20": [
@@ -107,11 +107,6 @@
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": -0.9476255237625892
-        },
-        {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": -0.7475765816217449
         },
         {
             "代码": "TSLA",
@@ -202,6 +197,11 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 2.0084807155986875
+        },
+        {
+            "代码": "PEP",
+            "名称": "PepsiCo, Inc.",
+            "Percent": 7.454743910520254
         }
     ]
 }

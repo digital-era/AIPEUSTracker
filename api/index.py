@@ -10,7 +10,7 @@ import pytz
 # 为了简化，这里只列出一部分作为示例。请替换为完整的纳斯ДАК 100 列表。
 NAS_TICKERS = [
     'AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'GOOG', 'TSLA', 'META', 'AVGO', 'PEP', 'NVDA',
-    'COST', 'ADBE', 'CSCO', 'TMUS', 'NFLX', 'AMD', 'INTC', 'CMCSA', 'QCOM', 'INTU'
+    'COST', 'ADBE', 'CSCO', 'TMUS', 'NFLX', 'AMD', 'INTC', 'CMCSA', 'QCOM', 'INTU', 'QS', 'SLDP'
     # ... 添加更多股票代码
 ]
 

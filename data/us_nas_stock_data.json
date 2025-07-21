@@ -1,6 +1,16 @@
 {
-    "update_time_utc": "2025-07-18 22:46:43 UTC",
+    "update_time_utc": "2025-07-21 01:29:32 UTC",
     "top_up_20": [
+        {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": 17.080743708988948
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": 7.647058328542757
+        },
         {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
@@ -90,16 +100,6 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": -1.08570980506465
-        },
-        {
-            "代码": "PEP",
-            "名称": "PepsiCo, Inc.",
-            "Percent": -1.5126491414413346
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": -2.132035465911004
         }
     ],
     "top_down_20": [

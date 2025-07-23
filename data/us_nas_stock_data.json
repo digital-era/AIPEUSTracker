@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-23 21:43:23 UTC",
+    "update_time_utc": "2025-07-23 21:54:51 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -92,14 +92,14 @@
             "Percent": -0.2601955912713119
         },
         {
-            "代码": "GOOG",
-            "名称": "Alphabet Inc.",
-            "Percent": -0.31232424215779975
-        },
-        {
             "代码": "GOOGL",
             "名称": "Alphabet Inc.",
             "Percent": -0.5801194897021913
+        },
+        {
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": -1.1175658148133143
         }
     ],
     "top_down_20": [
@@ -122,11 +122,6 @@
             "代码": "GOOGL",
             "名称": "Alphabet Inc.",
             "Percent": -0.5801194897021913
-        },
-        {
-            "代码": "GOOG",
-            "名称": "Alphabet Inc.",
-            "Percent": -0.31232424215779975
         },
         {
             "代码": "PEP",
@@ -202,6 +197,11 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 1.8306494025471152
+        },
+        {
+            "代码": "NVDA",
+            "名称": "NVIDIA Corporation",
+            "Percent": 2.2451056860480603
         }
     ]
 }

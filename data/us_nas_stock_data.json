@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-24 21:43:30 UTC",
+    "update_time_utc": "2025-07-24 21:55:03 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -77,6 +77,11 @@
             "Percent": -0.2067306640543545
         },
         {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": -0.4809120050219248
+        },
+        {
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": -0.6504931906176583
@@ -95,11 +100,6 @@
             "代码": "CMCSA",
             "名称": "Comcast Corporation",
             "Percent": -1.1735176666630427
-        },
-        {
-            "代码": "QS",
-            "名称": "QuantumScape Corporation",
-            "Percent": -1.558844976262206
         }
     ],
     "top_down_20": [
@@ -137,6 +137,11 @@
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": -0.6504931906176583
+        },
+        {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": -0.4809120050219248
         },
         {
             "代码": "ADBE",
@@ -197,11 +202,6 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 1.769533282974507
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": 2.1872053918686087
         }
     ]
 }

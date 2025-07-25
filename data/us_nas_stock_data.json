@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-07-25 20:26:30 UTC",
+    "update_time_utc": "2025-07-25 20:46:48 UTC",
     "top_up_20": [
         {
             "代码": "TSLA",
@@ -52,6 +52,11 @@
             "Percent": 0.056142580024591375
         },
         {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": 0.0
+        },
+        {
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": -0.022868282209489593
@@ -95,11 +100,6 @@
             "代码": "TMUS",
             "名称": "T-Mobile US, Inc.",
             "Percent": -1.5959583629261365
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -4.778056764897191
         }
     ],
     "top_down_20": [
@@ -164,6 +164,11 @@
             "Percent": -0.022868282209489593
         },
         {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": 0.0
+        },
+        {
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": 0.056142580024591375
@@ -197,11 +202,6 @@
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": 0.5857395233801446
-        },
-        {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 0.6067497985248465
         }
     ]
 }

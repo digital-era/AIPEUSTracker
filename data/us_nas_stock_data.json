@@ -1,10 +1,15 @@
 {
-    "update_time_utc": "2025-08-01 20:47:43 UTC",
+    "update_time_utc": "2025-08-01 21:22:55 UTC",
     "top_up_20": [
         {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 1.3707382276212983
+        },
+        {
+            "代码": "PEP",
+            "名称": "PepsiCo, Inc.",
+            "Percent": 0.986079341942586
         },
         {
             "代码": "QCOM",
@@ -95,11 +100,6 @@
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": -2.6147131042977323
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": -2.764968151453324
         }
     ],
     "top_down_20": [

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-04 21:56:41 UTC",
+    "update_time_utc": "2025-08-04 22:26:28 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -57,11 +57,6 @@
             "Percent": 2.1907956170373253
         },
         {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": 2.0563213244928913
-        },
-        {
             "代码": "TMUS",
             "名称": "T-Mobile US, Inc.",
             "Percent": 1.6062384517758252
@@ -100,6 +95,11 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.20103301389351758
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 0.12300404355558403
         }
     ],
     "top_down_20": [
@@ -164,11 +164,6 @@
             "Percent": 1.6062384517758252
         },
         {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": 2.0563213244928913
-        },
-        {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": 2.1907956170373253
@@ -202,6 +197,11 @@
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": 3.514617806207664
+        },
+        {
+            "代码": "NVDA",
+            "名称": "NVIDIA Corporation",
+            "Percent": 3.6150119359707062
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-04 21:24:23 UTC",
+    "update_time_utc": "2025-08-04 21:45:11 UTC",
     "top_up_20": [
         {
             "代码": "GFI",
@@ -124,6 +124,11 @@
             "Percent": 0.14521997274868048
         },
         {
+            "代码": "VZ",
+            "名称": "Verizon Communications Inc.",
+            "Percent": 0.16324555289311599
+        },
+        {
             "代码": "WBA",
             "名称": "Walgreens Boots Alliance, Inc.",
             "Percent": 0.1718170403734405
@@ -197,11 +202,6 @@
             "代码": "HON",
             "名称": "Honeywell International Inc.",
             "Percent": 1.414719800323006
-        },
-        {
-            "代码": "AXP",
-            "名称": "American Express Company",
-            "Percent": 1.46804209926349
         }
     ]
 }

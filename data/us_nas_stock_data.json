@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-04 22:49:19 UTC",
+    "update_time_utc": "2025-08-05 01:38:34 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -104,6 +104,11 @@
     ],
     "top_down_20": [
         {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -2.5733128244905767
+        },
+        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": -1.443541840985157
@@ -197,11 +202,6 @@
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": 3.514617806207664
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": 3.6150119359707062
         }
     ]
 }

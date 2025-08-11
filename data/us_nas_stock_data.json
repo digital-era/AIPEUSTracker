@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-11 22:22:05 UTC",
+    "update_time_utc": "2025-08-11 22:44:42 UTC",
     "top_up_20": [
         {
             "代码": "QS",
@@ -92,14 +92,14 @@
             "Percent": -0.3508565825936429
         },
         {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -0.4458589276234744
+        },
+        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": -0.6241858073597945
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -0.8209669348136656
         }
     ],
     "top_down_20": [
@@ -132,6 +132,11 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": -0.6241858073597945
+        },
+        {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -0.4458589276234744
         },
         {
             "代码": "AVGO",
@@ -197,11 +202,6 @@
             "代码": "CRSP",
             "名称": "CRISPR Therapeutics AG",
             "Percent": 0.7454542680220171
-        },
-        {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": 0.7910467002514127
         }
     ]
 }

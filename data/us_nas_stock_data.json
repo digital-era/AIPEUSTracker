@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-11 20:43:30 UTC",
+    "update_time_utc": "2025-08-11 20:55:17 UTC",
     "top_up_20": [
         {
             "代码": "QS",
@@ -10,11 +10,6 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": 3.508766059253432
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": 2.8454436694932808
         },
         {
             "代码": "TMUS",
@@ -100,6 +95,11 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": -0.6241858073597945
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": -0.8209669348136656
         }
     ],
     "top_down_20": [

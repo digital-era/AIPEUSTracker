@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-12 20:26:24 UTC",
+    "update_time_utc": "2025-08-12 20:45:37 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -67,11 +67,6 @@
             "Percent": 1.3805481241178825
         },
         {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": 1.3701947719746923
-        },
-        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": 1.2547729593952606
@@ -95,6 +90,11 @@
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": 1.004668321591457
+        },
+        {
+            "代码": "NVDA",
+            "名称": "NVIDIA Corporation",
+            "Percent": 0.6041997793401055
         },
         {
             "代码": "NVDA",
@@ -159,11 +159,6 @@
             "Percent": 1.2547729593952606
         },
         {
-            "代码": "TMUS",
-            "名称": "T-Mobile US, Inc.",
-            "Percent": 1.3701947719746923
-        },
-        {
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 1.3805481241178825
@@ -202,6 +197,11 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 2.938464249796273
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": 2.9735733483736597
         }
     ]
 }

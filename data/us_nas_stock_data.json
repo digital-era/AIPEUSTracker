@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-13 21:53:04 UTC",
+    "update_time_utc": "2025-08-13 22:22:09 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -57,6 +57,11 @@
             "Percent": 0.962558237879208
         },
         {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": -0.24807402373517237
+        },
+        {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -0.42835097722239357
@@ -95,11 +100,6 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -1.2509482384930644
-        },
-        {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -1.2556940392602849
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": -0.42835097722239357
         },
         {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": -0.24807402373517237
+        },
+        {
             "代码": "QS",
             "名称": "QuantumScape Corporation",
             "Percent": 0.962558237879208
@@ -197,11 +202,6 @@
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": 1.8604050542097454
-        },
-        {
-            "代码": "INTC",
-            "名称": "Intel Corporation",
-            "Percent": 1.879870964932157
         }
     ]
 }

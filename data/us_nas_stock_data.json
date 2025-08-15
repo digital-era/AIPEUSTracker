@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-15 21:40:26 UTC",
+    "update_time_utc": "2025-08-15 21:52:16 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
@@ -57,6 +57,11 @@
             "Percent": 0.4150339828144036
         },
         {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": 0.39635042340588544
+        },
+        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 0.021648217457236184
@@ -95,11 +100,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": -0.8625465813464368
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": -1.4959143019665277
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": 0.021648217457236184
         },
         {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": 0.39635042340588544
+        },
+        {
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
             "Percent": 0.4150339828144036
@@ -197,11 +202,6 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 1.197684590080452
-        },
-        {
-            "代码": "CRSP",
-            "名称": "CRISPR Therapeutics AG",
-            "Percent": 1.547092574181335
         }
     ]
 }

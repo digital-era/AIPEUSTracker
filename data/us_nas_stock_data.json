@@ -1,6 +1,11 @@
 {
-    "update_time_utc": "2025-08-27 20:24:09 UTC",
+    "update_time_utc": "2025-08-27 20:42:15 UTC",
     "top_up_20": [
+        {
+            "代码": "INTC",
+            "名称": "Intel Corporation",
+            "Percent": 2.0533880581804773
+        },
         {
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
@@ -20,6 +25,11 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 0.7516493275298632
+        },
+        {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.5503843593635812
         },
         {
             "代码": "AAPL",
@@ -90,16 +100,6 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": -0.2112378285862318
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": -0.5886220733017151
-        },
-        {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -0.8911246413850585
         }
     ],
     "top_down_20": [
@@ -199,9 +199,9 @@
             "Percent": 0.5145907056532912
         },
         {
-            "代码": "AVGO",
-            "名称": "Broadcom Inc.",
-            "Percent": 0.7516493275298632
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.5503843593635812
         }
     ]
 }

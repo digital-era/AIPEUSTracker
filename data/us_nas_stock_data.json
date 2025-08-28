@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-28 20:52:44 UTC",
+    "update_time_utc": "2025-08-28 21:19:19 UTC",
     "top_up_20": [
         {
             "代码": "VRT",
@@ -45,6 +45,11 @@
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": 0.8675862537423428
+        },
+        {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.7584826555028877
         },
         {
             "代码": "QS",
@@ -95,11 +100,6 @@
             "代码": "ADBE",
             "名称": "Adobe Inc.",
             "Percent": -0.6706930286240061
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -0.7098540926306844
         }
     ],
     "top_down_20": [
@@ -179,6 +179,11 @@
             "Percent": 0.7462738793703994
         },
         {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 0.7584826555028877
+        },
+        {
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": 0.8675862537423428
@@ -197,11 +202,6 @@
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": 1.4465193285419609
-        },
-        {
-            "代码": "GOOG",
-            "名称": "Alphabet Inc.",
-            "Percent": 1.9979771716914552
         }
     ]
 }

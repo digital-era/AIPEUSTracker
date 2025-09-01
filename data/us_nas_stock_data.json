@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-01 20:40:45 UTC",
+    "update_time_utc": "2025-09-01 20:52:12 UTC",
     "top_up_20": [
         {
             "代码": "CMCSA",
@@ -72,11 +72,6 @@
             "Percent": -1.6522178358103803
         },
         {
-            "代码": "NFLX",
-            "名称": "Netflix, Inc.",
-            "Percent": -1.883954045375325
-        },
-        {
             "代码": "QS",
             "名称": "QuantumScape Corporation",
             "Percent": -2.0987721620360875
@@ -100,6 +95,11 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": -3.324640924704477
+        },
+        {
+            "代码": "TSLA",
+            "名称": "Tesla, Inc.",
+            "Percent": -3.500206799409336
         }
     ],
     "top_down_20": [
@@ -154,11 +154,6 @@
             "Percent": -2.0987721620360875
         },
         {
-            "代码": "NFLX",
-            "名称": "Netflix, Inc.",
-            "Percent": -1.883954045375325
-        },
-        {
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": -1.6522178358103803
@@ -202,6 +197,11 @@
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": 0.5462182458822752
+        },
+        {
+            "代码": "GOOGL",
+            "名称": "Alphabet Inc.",
+            "Percent": 0.600077620545984
         }
     ]
 }

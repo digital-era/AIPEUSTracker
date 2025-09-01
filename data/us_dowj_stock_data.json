@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-08-29 22:52:06 UTC",
+    "update_time_utc": "2025-09-01 14:20:49 UTC",
     "top_up_20": [
         {
             "代码": "GFI",
@@ -20,6 +20,11 @@
             "代码": "NEM",
             "名称": "Newmont Corporation",
             "Percent": 1.959709855082283
+        },
+        {
+            "代码": "DOW",
+            "名称": "Dow Inc.",
+            "Percent": 1.6928152726496675
         },
         {
             "代码": "AXP",
@@ -95,11 +100,6 @@
             "代码": "HOOD",
             "名称": "Robinhood Markets, Inc.",
             "Percent": 0.32789693305557793
-        },
-        {
-            "代码": "DOW",
-            "名称": "Dow Inc.",
-            "Percent": 0.2441980736166715
         }
     ],
     "top_down_20": [
@@ -134,11 +134,6 @@
             "Percent": -0.8357831725789331
         },
         {
-            "代码": "GS",
-            "名称": "The Goldman Sachs Group, Inc.",
-            "Percent": -0.7947034072506407
-        },
-        {
             "代码": "NKE",
             "名称": "NIKE, Inc.",
             "Percent": -0.705846297853841
@@ -159,6 +154,11 @@
             "Percent": -0.4897075699131317
         },
         {
+            "代码": "GS",
+            "名称": "The Goldman Sachs Group, Inc.",
+            "Percent": -0.2636399963013945
+        },
+        {
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": -0.18059776976025013
@@ -172,11 +172,6 @@
             "代码": "JPM",
             "名称": "JPMorgan Chase & Co.",
             "Percent": 0.116254058857051
-        },
-        {
-            "代码": "DOW",
-            "名称": "Dow Inc.",
-            "Percent": 0.2441980736166715
         },
         {
             "代码": "HOOD",
@@ -202,6 +197,11 @@
             "代码": "DIS",
             "名称": "The Walt Disney Company",
             "Percent": 0.62903592962331
+        },
+        {
+            "代码": "CRM",
+            "名称": "Salesforce, Inc.",
+            "Percent": 0.6757557965473999
         }
     ]
 }

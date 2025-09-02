@@ -1,207 +1,197 @@
 {
-    "update_time_utc": "2025-09-02 18:47:58 UTC",
+    "update_time_utc": "2025-09-02 19:16:05 UTC",
     "top_up_20": [
         {
-            "代码": "PEP",
-            "名称": "PepsiCo, Inc.",
-            "Percent": 1.5876224064933362
+            "代码": "CRSP",
+            "名称": "CRISPR Therapeutics AG",
+            "Percent": 2.151259549254857
         },
         {
             "代码": "TMUS",
             "名称": "T-Mobile US, Inc.",
-            "Percent": 1.5516442390912135
-        },
-        {
-            "代码": "CRSP",
-            "名称": "CRISPR Therapeutics AG",
-            "Percent": 1.3208508415885745
+            "Percent": 1.3472712963467013
         },
         {
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
-            "Percent": 0.2805722862352576
+            "Percent": 0.5205908597144631
         },
         {
             "代码": "CMCSA",
             "名称": "Comcast Corporation",
-            "Percent": 0.27965087604401645
+            "Percent": 0.31880851186160813
         },
         {
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
-            "Percent": -0.23201937100071876
+            "Percent": 0.06462883673430016
         },
         {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
-            "Percent": -0.6699749051380574
-        },
-        {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -0.8785691251019077
+            "Percent": -0.603997772940188
         },
         {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
-            "Percent": -0.9098296486861763
+            "Percent": -0.6453628447208246
         },
         {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": -0.9535210422132684
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -0.8217147995007131
         },
         {
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
-            "Percent": -1.3343159956915478
+            "Percent": -0.8486768773479751
+        },
+        {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": -0.8575668220577211
         },
         {
             "代码": "INTC",
             "名称": "Intel Corporation",
-            "Percent": -1.3552358050769624
-        },
-        {
-            "代码": "GOOG",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.3955864490118626
-        },
-        {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.4422569046538911
-        },
-        {
-            "代码": "AAPL",
-            "名称": "Apple Inc.",
-            "Percent": -1.5809417500622966
-        },
-        {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": -1.6136904627814945
+            "Percent": -1.170430566518567
         },
         {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
-            "Percent": -1.6952717359709812
+            "Percent": -1.4196839341543503
+        },
+        {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": -1.4387853651556277
         },
         {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
-            "Percent": -1.7292605737411297
+            "Percent": -1.5851549706604802
         },
         {
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
-            "Percent": -2.1620051870200894
+            "Percent": -1.8104824741320655
         },
         {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.666836617591147
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": -2.5851188921022117
+        },
+        {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": -2.947865187196207
+        },
+        {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -3.5786414946990788
+        },
+        {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": -6.852194133735535
         }
     ],
     "top_down_20": [
         {
             "代码": "SLDP",
             "名称": "Solid Power, Inc.",
-            "Percent": -7.736721571584821
-        },
-        {
-            "代码": "VRT",
-            "名称": "Vertiv Holdings Co",
-            "Percent": -3.7671502863280892
+            "Percent": -6.852194133735535
         },
         {
             "代码": "ADBE",
             "名称": "Adobe Inc.",
-            "Percent": -3.6585415934812335
+            "Percent": -3.5786414946990788
+        },
+        {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": -2.947865187196207
         },
         {
             "代码": "QS",
             "名称": "QuantumScape Corporation",
-            "Percent": -3.467838896383524
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.666836617591147
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.666836617591147
+            "Percent": -2.5851188921022117
         },
         {
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
-            "Percent": -2.1620051870200894
+            "Percent": -1.8104824741320655
         },
         {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
-            "Percent": -1.7292605737411297
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": -1.6952717359709812
-        },
-        {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": -1.6136904627814945
+            "Percent": -1.5851549706604802
         },
         {
             "代码": "AAPL",
             "名称": "Apple Inc.",
-            "Percent": -1.5809417500622966
+            "Percent": -1.4387853651556277
         },
         {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.4422569046538911
-        },
-        {
-            "代码": "GOOG",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.3955864490118626
+            "代码": "TSLA",
+            "名称": "Tesla, Inc.",
+            "Percent": -1.4196839341543503
         },
         {
             "代码": "INTC",
             "名称": "Intel Corporation",
-            "Percent": -1.3552358050769624
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": -1.3343159956915478
+            "Percent": -1.170430566518567
         },
         {
             "代码": "INTU",
             "名称": "Intuit Inc.",
-            "Percent": -0.9535210422132684
+            "Percent": -0.8575668220577211
         },
         {
-            "代码": "MSFT",
-            "名称": "Microsoft Corporation",
-            "Percent": -0.9098296486861763
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": -0.8486768773479751
         },
         {
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
-            "Percent": -0.8785691251019077
+            "Percent": -0.8217147995007131
+        },
+        {
+            "代码": "MSFT",
+            "名称": "Microsoft Corporation",
+            "Percent": -0.6453628447208246
         },
         {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
-            "Percent": -0.6699749051380574
+            "Percent": -0.603997772940188
         },
         {
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
-            "Percent": -0.23201937100071876
+            "Percent": 0.06462883673430016
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 0.31880851186160813
+        },
+        {
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": 0.5205908597144631
+        },
+        {
+            "代码": "TMUS",
+            "名称": "T-Mobile US, Inc.",
+            "Percent": 1.3472712963467013
+        },
+        {
+            "代码": "CRSP",
+            "名称": "CRISPR Therapeutics AG",
+            "Percent": 2.151259549254857
         }
     ]
 }

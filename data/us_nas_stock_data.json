@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-02 21:52:22 UTC",
+    "update_time_utc": "2025-09-02 22:18:05 UTC",
     "top_up_20": [
         {
             "代码": "CRSP",
@@ -114,6 +114,11 @@
             "Percent": -3.10345022298279
         },
         {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": -2.77538285443307
+        },
+        {
             "代码": "QS",
             "名称": "QuantumScape Corporation",
             "Percent": -2.52206574520239
@@ -197,11 +202,6 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 0.2858117435255205
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": 0.4710033607964575
         }
     ]
 }

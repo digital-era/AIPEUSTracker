@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-03 22:39:37 UTC",
+    "update_time_utc": "2025-09-03 22:52:06 UTC",
     "top_up_20": [
         {
             "代码": "GOOGL",
@@ -97,9 +97,9 @@
             "Percent": -0.19174760613691363
         },
         {
-            "代码": "INTC",
-            "名称": "Intel Corporation",
-            "Percent": -0.8674064122841765
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": -0.7031985671134657
         }
     ],
     "top_down_20": [
@@ -127,6 +127,11 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -0.8674064122841765
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": -0.7031985671134657
         },
         {
             "代码": "CSCO",
@@ -197,11 +202,6 @@
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
             "Percent": 1.2740861014778977
-        },
-        {
-            "代码": "AVGO",
-            "名称": "Broadcom Inc.",
-            "Percent": 1.3915050127252084
         }
     ]
 }

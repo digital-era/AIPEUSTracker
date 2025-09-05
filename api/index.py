@@ -18,7 +18,7 @@ NAS_TICKERS = [
 DOW_TICKERS = [
     'AXP', 'AMGN', 'AAPL', 'BA', 'CAT', 'CSCO', 'CVX', 'GS', 'HD', 'HON',
     'IBM', 'INTC', 'JNJ', 'KO', 'JPM', 'MCD', 'MMM', 'MRK', 'MSFT', 'NKE', 'NEM', 'KGC', 'GFI', 'AU'
-    'PG', 'TRV', 'UNH', 'CRM', 'CRCL', 'VZ', 'COIN', 'HOOD', 'V', 'WBA', 'WMT', 'DIS', 'DOW'
+    'PG', 'TRV', 'UNH', 'CRM', 'CRCL', 'VZ', 'COIN', 'HOOD',  'WBA', 'WMT',  'DOW',  'DIS', 'V', 'MP','NB','UUUU'
 ]
 
 # 指数代码

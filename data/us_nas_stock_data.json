@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-09 20:22:54 UTC",
+    "update_time_utc": "2025-09-09 20:40:49 UTC",
     "top_up_20": [
         {
             "代码": "VRT",
@@ -124,6 +124,11 @@
             "Percent": -1.4839409394815963
         },
         {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -1.2825534089519646
+        },
+        {
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": -0.9860220774406372
@@ -197,11 +202,6 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": 1.4854261134125337
-        },
-        {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": 1.781207580951092
         }
     ]
 }

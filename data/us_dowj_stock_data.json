@@ -1,27 +1,67 @@
 {
-    "update_time_utc": "2025-09-17 15:53:12 UTC",
+    "update_time_utc": "2025-09-17 16:47:29 UTC",
     "top_up_20": [
-        {
-            "代码": "WMT",
-            "名称": "Walmart Inc.",
-            "Percent": 2.2384475753175876
-        },
         {
             "代码": "UUUU",
             "名称": "Energy Fuels Inc.",
-            "Percent": 1.3795706317804395
+            "Percent": 1.1931383238828783
+        },
+        {
+            "代码": "V",
+            "名称": "Visa Inc.",
+            "Percent": 1.0557881218653247
+        },
+        {
+            "代码": "DIS",
+            "名称": "The Walt Disney Company",
+            "Percent": 0.5033360971652328
+        },
+        {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": 0.18676228810704726
+        },
+        {
+            "代码": "CVX",
+            "名称": "Chevron Corporation",
+            "Percent": 0.0877519089507234
+        },
+        {
+            "代码": "KGC",
+            "名称": "Kinross Gold Corporation",
+            "Percent": -0.4177630356670004
         }
     ],
     "top_down_20": [
         {
-            "代码": "UUUU",
-            "名称": "Energy Fuels Inc.",
-            "Percent": 1.3795706317804395
+            "代码": "KGC",
+            "名称": "Kinross Gold Corporation",
+            "Percent": -0.4177630356670004
         },
         {
-            "代码": "WMT",
-            "名称": "Walmart Inc.",
-            "Percent": 2.2384475753175876
+            "代码": "CVX",
+            "名称": "Chevron Corporation",
+            "Percent": 0.0877519089507234
+        },
+        {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": 0.18676228810704726
+        },
+        {
+            "代码": "DIS",
+            "名称": "The Walt Disney Company",
+            "Percent": 0.5033360971652328
+        },
+        {
+            "代码": "V",
+            "名称": "Visa Inc.",
+            "Percent": 1.0557881218653247
+        },
+        {
+            "代码": "UUUU",
+            "名称": "Energy Fuels Inc.",
+            "Percent": 1.1931383238828783
         }
     ]
 }

@@ -1,47 +1,37 @@
 {
-    "update_time_utc": "2025-09-17 15:53:00 UTC",
+    "update_time_utc": "2025-09-17 16:47:14 UTC",
     "top_up_20": [
         {
-            "代码": "QS",
-            "名称": "QuantumScape Corporation",
-            "Percent": 4.220690204665093
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 1.223290326925099
         },
         {
-            "代码": "NFLX",
-            "名称": "Netflix, Inc.",
-            "Percent": 1.390654484615405
+            "代码": "TMUS",
+            "名称": "T-Mobile US, Inc.",
+            "Percent": 0.6943898616190525
         },
         {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
-            "Percent": -0.22143588847703058
-        },
-        {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.4452957596289968
+            "Percent": -0.20823462611980667
         }
     ],
     "top_down_20": [
         {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -1.4452957596289968
-        },
-        {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
-            "Percent": -0.22143588847703058
+            "Percent": -0.20823462611980667
         },
         {
-            "代码": "NFLX",
-            "名称": "Netflix, Inc.",
-            "Percent": 1.390654484615405
+            "代码": "TMUS",
+            "名称": "T-Mobile US, Inc.",
+            "Percent": 0.6943898616190525
         },
         {
-            "代码": "QS",
-            "名称": "QuantumScape Corporation",
-            "Percent": 4.220690204665093
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 1.223290326925099
         }
     ]
 }

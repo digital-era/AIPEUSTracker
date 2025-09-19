@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-19 21:37:58 UTC",
+    "update_time_utc": "2025-09-19 21:52:25 UTC",
     "top_up_20": [
         {
             "代码": "QS",
@@ -114,6 +114,11 @@
             "Percent": -0.9850634658604285
         },
         {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": -0.7613149004480437
+        },
+        {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": -0.684334913533344
@@ -197,11 +202,6 @@
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
             "Percent": 1.8644862309276395
-        },
-        {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 1.9201079346333538
         }
     ]
 }

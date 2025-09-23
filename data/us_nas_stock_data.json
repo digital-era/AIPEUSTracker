@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-09-23 21:38:11 UTC",
+    "update_time_utc": "2025-09-23 21:52:17 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
@@ -67,6 +67,11 @@
             "Percent": -0.4144816289046298
         },
         {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -0.6317259607216089
+        },
+        {
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": -0.6443275472520176
@@ -95,11 +100,6 @@
             "代码": "CRSP",
             "名称": "CRISPR Therapeutics AG",
             "Percent": -2.1578102826303747
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.8212014146021818
         }
     ],
     "top_down_20": [
@@ -159,6 +159,11 @@
             "Percent": -0.6443275472520176
         },
         {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": -0.6317259607216089
+        },
+        {
             "代码": "INTU",
             "名称": "Intuit Inc.",
             "Percent": -0.4144816289046298
@@ -197,11 +202,6 @@
             "代码": "CMCSA",
             "名称": "Comcast Corporation",
             "Percent": 0.41283286459235885
-        },
-        {
-            "代码": "PEP",
-            "名称": "PepsiCo, Inc.",
-            "Percent": 0.6168865664878774
         }
     ]
 }

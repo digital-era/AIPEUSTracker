@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-02 21:37:49 UTC",
+    "update_time_utc": "2025-10-02 21:52:27 UTC",
     "top_up_20": [
         {
             "代码": "CRSP",
@@ -114,6 +114,11 @@
             "Percent": -1.9876625004804322
         },
         {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": -1.7453164389345455
+        },
+        {
             "代码": "TMUS",
             "名称": "T-Mobile US, Inc.",
             "Percent": -1.3375611723664278
@@ -197,11 +202,6 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 1.4367490977181248
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": 2.257654410003998
         }
     ]
 }

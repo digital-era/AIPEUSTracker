@@ -1,10 +1,15 @@
 {
-    "update_time_utc": "2025-10-03 22:18:40 UTC",
+    "update_time_utc": "2025-10-03 22:39:01 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
             "名称": "Solid Power, Inc.",
             "Percent": 11.340207325840764
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": 11.328670377282224
         },
         {
             "代码": "CMCSA",
@@ -95,11 +100,6 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": -1.303902300941104
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": -1.3485889961854765
         }
     ],
     "top_down_20": [

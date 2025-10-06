@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-06 21:52:14 UTC",
+    "update_time_utc": "2025-10-06 22:19:22 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -92,9 +92,9 @@
             "Percent": -0.6516472075340216
         },
         {
-            "代码": "AVGO",
-            "名称": "Broadcom Inc.",
-            "Percent": -0.8511407407193625
+            "代码": "NVDA",
+            "名称": "NVIDIA Corporation",
+            "Percent": -1.1086248188821868
         },
         {
             "代码": "NVDA",
@@ -132,11 +132,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": -1.1086248188821868
-        },
-        {
-            "代码": "AVGO",
-            "名称": "Broadcom Inc.",
-            "Percent": -0.8511407407193625
         },
         {
             "代码": "INTC",
@@ -202,6 +197,11 @@
             "代码": "GOOGL",
             "名称": "Alphabet Inc.",
             "Percent": 2.0705059897664433
+        },
+        {
+            "代码": "MSFT",
+            "名称": "Microsoft Corporation",
+            "Percent": 2.1687508007657152
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-07 21:18:42 UTC",
+    "update_time_utc": "2025-10-07 21:38:26 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -40,11 +40,6 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 0.4237365074777011
-        },
-        {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": 0.39837252472939305
         },
         {
             "代码": "AVGO",
@@ -100,6 +95,11 @@
             "代码": "INTU",
             "名称": "Intuit Inc.",
             "Percent": -1.8057329815630279
+        },
+        {
+            "代码": "GOOGL",
+            "名称": "Alphabet Inc.",
+            "Percent": -1.8647918801767953
         }
     ],
     "top_down_20": [
@@ -184,11 +184,6 @@
             "Percent": 0.27422976974414315
         },
         {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": 0.39837252472939305
-        },
-        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 0.4237365074777011
@@ -202,6 +197,11 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.7802407743032811
+        },
+        {
+            "代码": "TMUS",
+            "名称": "T-Mobile US, Inc.",
+            "Percent": 1.2090975643389303
         }
     ]
 }

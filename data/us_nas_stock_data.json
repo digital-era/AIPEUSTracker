@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-10 21:52:32 UTC",
+    "update_time_utc": "2025-10-10 22:19:08 UTC",
     "top_up_20": [
         {
             "代码": "PEP",
@@ -57,6 +57,11 @@
             "Percent": -2.189899009253649
         },
         {
+            "代码": "CRSP",
+            "名称": "CRISPR Therapeutics AG",
+            "Percent": -2.4692986109654322
+        },
+        {
             "代码": "SLDP",
             "名称": "Solid Power, Inc.",
             "Percent": -2.8192383147420887
@@ -95,11 +100,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": -4.886536482426522
-        },
-        {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": -4.992539782966611
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": -2.8192383147420887
         },
         {
+            "代码": "CRSP",
+            "名称": "CRISPR Therapeutics AG",
+            "Percent": -2.4692986109654322
+        },
+        {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
             "Percent": -2.189899009253649
@@ -197,11 +202,6 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -1.3660134992112405
-        },
-        {
-            "代码": "NFLX",
-            "名称": "Netflix, Inc.",
-            "Percent": -0.8927185873965349
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-13 20:23:52 UTC",
+    "update_time_utc": "2025-10-13 20:41:12 UTC",
     "top_up_20": [
         {
             "代码": "QS",
@@ -57,11 +57,6 @@
             "Percent": 2.337097370858544
         },
         {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 2.164261693697827
-        },
-        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 1.7100394188331414
@@ -100,6 +95,11 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": -0.08605393053153634
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": -0.16971907201076508
         }
     ],
     "top_down_20": [
@@ -169,11 +169,6 @@
             "Percent": 1.7100394188331414
         },
         {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 2.164261693697827
-        },
-        {
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": 2.337097370858544
@@ -202,6 +197,11 @@
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": 5.332380126755545
+        },
+        {
+            "代码": "TSLA",
+            "名称": "Tesla, Inc.",
+            "Percent": 5.419720958518707
         }
     ]
 }

@@ -1,6 +1,11 @@
 {
-    "update_time_utc": "2025-10-17 21:19:03 UTC",
+    "update_time_utc": "2025-10-17 21:38:01 UTC",
     "top_up_20": [
+        {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": 4.966890606450028
+        },
         {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
@@ -95,11 +100,6 @@
             "代码": "QCOM",
             "名称": "QUALCOMM Incorporated",
             "Percent": -0.3839620159568171
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": -0.6309668071894293
         }
     ],
     "top_down_20": [

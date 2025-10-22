@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-22 21:17:07 UTC",
+    "update_time_utc": "2025-10-22 21:38:12 UTC",
     "top_up_20": [
         {
             "代码": "COST",
@@ -15,6 +15,11 @@
             "代码": "GOOGL",
             "名称": "Alphabet Inc.",
             "Percent": 0.49109466364593907
+        },
+        {
+            "代码": "GOOG",
+            "名称": "Alphabet Inc.",
+            "Percent": 0.4734632206353907
         },
         {
             "代码": "QCOM",
@@ -95,11 +100,6 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -3.147955919630771
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": -3.276899168911071
         }
     ],
     "top_down_20": [

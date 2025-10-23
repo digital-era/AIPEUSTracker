@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-23 20:41:56 UTC",
+    "update_time_utc": "2025-10-23 20:53:40 UTC",
     "top_up_20": [
         {
             "代码": "QS",
@@ -97,9 +97,9 @@
             "Percent": 0.0038459161822434283
         },
         {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": -0.2784016707459931
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": -0.24902400718707735
         }
     ],
     "top_down_20": [
@@ -127,6 +127,11 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -0.2784016707459931
+        },
+        {
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": -0.24902400718707735
         },
         {
             "代码": "MSFT",
@@ -197,11 +202,6 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 1.4406971477930832
-        },
-        {
-            "代码": "AMD",
-            "名称": "Advanced Micro Devices, Inc.",
-            "Percent": 2.067501999721242
         }
     ]
 }

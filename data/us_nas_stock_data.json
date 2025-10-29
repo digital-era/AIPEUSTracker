@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-29 22:21:15 UTC",
+    "update_time_utc": "2025-10-29 22:42:37 UTC",
     "top_up_20": [
         {
             "代码": "VRT",
@@ -30,6 +30,11 @@
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": 2.5109044949734614
+        },
+        {
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": 2.4495083785244067
         },
         {
             "代码": "QS",
@@ -95,11 +100,6 @@
             "代码": "TMUS",
             "名称": "T-Mobile US, Inc.",
             "Percent": -2.263744198362172
-        },
-        {
-            "代码": "CRSP",
-            "名称": "CRISPR Therapeutics AG",
-            "Percent": -2.5089556515422267
         }
     ],
     "top_down_20": [
@@ -194,14 +194,14 @@
             "Percent": 1.6035920304882152
         },
         {
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": 2.4495083785244067
+        },
+        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": 2.5109044949734614
-        },
-        {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": 2.65450557861143
         }
     ]
 }

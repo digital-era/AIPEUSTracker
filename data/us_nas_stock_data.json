@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-30 22:40:25 UTC",
+    "update_time_utc": "2025-10-30 22:52:07 UTC",
     "top_up_20": [
         {
             "代码": "GOOGL",
@@ -104,11 +104,6 @@
     ],
     "top_down_20": [
         {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -11.334763146610156
-        },
-        {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -4.6391201077052076
@@ -202,6 +197,11 @@
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": 0.6303231785351789
+        },
+        {
+            "代码": "COST",
+            "名称": "Costco Wholesale Corporation",
+            "Percent": 0.8504866082474992
         }
     ]
 }

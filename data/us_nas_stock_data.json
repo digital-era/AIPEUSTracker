@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-10-31 22:42:17 UTC",
+    "update_time_utc": "2025-10-31 22:53:51 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -57,6 +57,11 @@
             "Percent": 0.31541308661148726
         },
         {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": 0.27430659470138524
+        },
+        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -0.028374095068266166
@@ -95,11 +100,6 @@
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
             "Percent": -0.46448901837299694
-        },
-        {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": -0.9487253079002713
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": -0.028374095068266166
         },
         {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": 0.27430659470138524
+        },
+        {
             "代码": "ADBE",
             "名称": "Adobe Inc.",
             "Percent": 0.31541308661148726
@@ -197,11 +202,6 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": 2.741963760474059
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": 3.740057084027075
         }
     ]
 }

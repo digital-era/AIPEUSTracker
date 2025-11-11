@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-10 22:54:51 UTC",
+    "update_time_utc": "2025-11-11 14:23:56 UTC",
     "top_up_20": [
         {
             "代码": "MP",
@@ -52,6 +52,11 @@
             "Percent": 1.7168174556699956
         },
         {
+            "代码": "IBM",
+            "名称": "International Business Machines Corporation",
+            "Percent": 1.4538866092237799
+        },
+        {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": 1.4352000104774012
@@ -95,11 +100,6 @@
             "代码": "TRV",
             "名称": "The Travelers Companies, Inc.",
             "Percent": 0.9220603668042563
-        },
-        {
-            "代码": "IBM",
-            "名称": "International Business Machines Corporation",
-            "Percent": 0.8975781565940798
         }
     ],
     "top_down_20": [
@@ -159,14 +159,14 @@
             "Percent": 0.10276807338520166
         },
         {
-            "代码": "AAPL",
-            "名称": "Apple Inc.",
-            "Percent": 0.3575786682732339
-        },
-        {
             "代码": "CVX",
             "名称": "Chevron Corporation",
             "Percent": 0.4063924697848523
+        },
+        {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": 0.45486792422774464
         },
         {
             "代码": "MRK",
@@ -189,11 +189,6 @@
             "Percent": 0.8529401566603371
         },
         {
-            "代码": "IBM",
-            "名称": "International Business Machines Corporation",
-            "Percent": 0.8975781565940798
-        },
-        {
             "代码": "TRV",
             "名称": "The Travelers Companies, Inc.",
             "Percent": 0.9220603668042563
@@ -202,6 +197,11 @@
             "代码": "CRCL",
             "名称": "Circle Internet Group",
             "Percent": 0.9307728234958724
+        },
+        {
+            "代码": "JNJ",
+            "名称": "Johnson & Johnson",
+            "Percent": 0.9862230078026986
         }
     ]
 }

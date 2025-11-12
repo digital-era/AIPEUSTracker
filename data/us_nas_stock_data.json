@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-12 21:40:16 UTC",
+    "update_time_utc": "2025-11-12 21:52:21 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -92,14 +92,14 @@
             "Percent": -1.5790759472957618
         },
         {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": -1.9670851205187034
-        },
-        {
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -2.051769508633805
+        },
+        {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -2.881611091368871
         }
     ],
     "top_down_20": [
@@ -132,11 +132,6 @@
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -2.051769508633805
-        },
-        {
-            "代码": "AMZN",
-            "名称": "Amazon.com, Inc.",
-            "Percent": -1.9670851205187034
         },
         {
             "代码": "GOOGL",
@@ -202,6 +197,11 @@
             "代码": "ADBE",
             "名称": "Adobe Inc.",
             "Percent": 1.1493867589685567
+        },
+        {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": 1.5461561716663803
         }
     ]
 }

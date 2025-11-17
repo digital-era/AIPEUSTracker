@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-14 22:54:31 UTC",
+    "update_time_utc": "2025-11-17 14:23:52 UTC",
     "top_up_20": [
         {
             "代码": "NB",
@@ -62,6 +62,11 @@
             "Percent": 0.22023518880208334
         },
         {
+            "代码": "HON",
+            "名称": "Honeywell International Inc.",
+            "Percent": 0.18119620677610684
+        },
+        {
             "代码": "KO",
             "名称": "The Coca-Cola Company",
             "Percent": 0.12664129403635122
@@ -95,11 +100,6 @@
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
             "Percent": -0.1216230511267786
-        },
-        {
-            "代码": "MCD",
-            "名称": "McDonald's Corporation",
-            "Percent": -0.1788113066451191
         }
     ],
     "top_down_20": [
@@ -139,11 +139,6 @@
             "Percent": -1.8031414546283013
         },
         {
-            "代码": "MMM",
-            "名称": "3M Company",
-            "Percent": -1.7817333097711343
-        },
-        {
             "代码": "DIS",
             "名称": "The Walt Disney Company",
             "Percent": -1.6819975358495043
@@ -152,6 +147,11 @@
             "代码": "HD",
             "名称": "The Home Depot, Inc.",
             "Percent": -1.5513412826453177
+        },
+        {
+            "代码": "MMM",
+            "名称": "3M Company",
+            "Percent": -1.3596930458392424
         },
         {
             "代码": "GFI",
@@ -172,11 +172,6 @@
             "代码": "CRCL",
             "名称": "Circle Internet Group",
             "Percent": -0.5465107702890571
-        },
-        {
-            "代码": "HON",
-            "名称": "Honeywell International Inc.",
-            "Percent": -0.4152708517194099
         },
         {
             "代码": "KGC",
@@ -202,6 +197,11 @@
             "代码": "WMT",
             "名称": "Walmart Inc.",
             "Percent": -0.058511369278391276
+        },
+        {
+            "代码": "TRV",
+            "名称": "The Travelers Companies, Inc.",
+            "Percent": -0.04523167376623442
         }
     ]
 }

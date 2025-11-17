@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-17 21:20:46 UTC",
+    "update_time_utc": "2025-11-17 21:41:04 UTC",
     "top_up_20": [
         {
             "代码": "CRSP",
@@ -97,9 +97,9 @@
             "Percent": -1.8772635535591367
         },
         {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": -2.480335946300191
+            "代码": "INTC",
+            "名称": "Intel Corporation",
+            "Percent": -2.280409242263881
         }
     ],
     "top_down_20": [
@@ -127,6 +127,11 @@
             "代码": "INTU",
             "名称": "Intuit Inc.",
             "Percent": -2.480335946300191
+        },
+        {
+            "代码": "INTC",
+            "名称": "Intel Corporation",
+            "Percent": -2.280409242263881
         },
         {
             "代码": "NVDA",
@@ -197,11 +202,6 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 0.05548164636661605
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": 1.1302107716671594
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-18 22:22:40 UTC",
+    "update_time_utc": "2025-11-18 22:43:16 UTC",
     "top_up_20": [
         {
             "代码": "NFLX",
@@ -97,9 +97,9 @@
             "Percent": -2.6995570263614534
         },
         {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.8081486183109714
+            "代码": "CRSP",
+            "名称": "CRISPR Therapeutics AG",
+            "Percent": -3.344176580489354
         }
     ],
     "top_down_20": [
@@ -122,16 +122,6 @@
             "代码": "CRSP",
             "名称": "CRISPR Therapeutics AG",
             "Percent": -3.344176580489354
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.8081486183109714
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": -2.8081486183109714
         },
         {
             "代码": "MSFT",
@@ -202,6 +192,16 @@
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": -0.007473646268784952
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": 0.15444369156949683
+        },
+        {
+            "代码": "CMCSA",
+            "名称": "Comcast Corporation",
+            "Percent": 0.5143324780628624
         }
     ]
 }

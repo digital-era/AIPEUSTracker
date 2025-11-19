@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-18 22:54:33 UTC",
+    "update_time_utc": "2025-11-19 14:23:07 UTC",
     "top_up_20": [
         {
             "代码": "NB",
@@ -62,6 +62,11 @@
             "Percent": 0.558232873745759
         },
         {
+            "代码": "CVX",
+            "名称": "Chevron Corporation",
+            "Percent": 0.33309026504011224
+        },
+        {
             "代码": "MMM",
             "名称": "3M Company",
             "Percent": 0.24184890136072526
@@ -95,11 +100,6 @@
             "代码": "AXP",
             "名称": "American Express Company",
             "Percent": -0.17289269974816848
-        },
-        {
-            "代码": "JPM",
-            "名称": "JPMorgan Chase & Co.",
-            "Percent": -0.31960297988605363
         }
     ],
     "top_down_20": [
@@ -169,11 +169,6 @@
             "Percent": -0.8183381557926049
         },
         {
-            "代码": "CVX",
-            "名称": "Chevron Corporation",
-            "Percent": -0.7751015051421781
-        },
-        {
             "代码": "NKE",
             "名称": "NIKE, Inc.",
             "Percent": -0.6518280404864909
@@ -202,6 +197,11 @@
             "代码": "MCD",
             "名称": "McDonald's Corporation",
             "Percent": -0.10167188087875012
+        },
+        {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": -0.007473646268784952
         }
     ]
 }

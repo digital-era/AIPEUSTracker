@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-21 22:54:00 UTC",
+    "update_time_utc": "2025-11-24 14:24:29 UTC",
     "top_up_20": [
         {
             "代码": "CRCL",
@@ -87,6 +87,11 @@
             "Percent": 1.3003126032408374
         },
         {
+            "代码": "AMGN",
+            "名称": "Amgen Inc.",
+            "Percent": 1.1537672916022292
+        },
+        {
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
             "Percent": 1.1530943082861387
@@ -95,11 +100,6 @@
             "代码": "HOOD",
             "名称": "Robinhood Markets, Inc.",
             "Percent": 1.0262724570953405
-        },
-        {
-            "代码": "HON",
-            "名称": "Honeywell International Inc.",
-            "Percent": 0.9992584718355957
         }
     ],
     "top_down_20": [
@@ -154,11 +154,6 @@
             "Percent": 0.4087194279460876
         },
         {
-            "代码": "AMGN",
-            "名称": "Amgen Inc.",
-            "Percent": 0.43740922684747713
-        },
-        {
             "代码": "KGC",
             "名称": "Kinross Gold Corporation",
             "Percent": 0.7018995917155546
@@ -202,6 +197,11 @@
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
             "Percent": 1.1530943082861387
+        },
+        {
+            "代码": "AMGN",
+            "名称": "Amgen Inc.",
+            "Percent": 1.1537672916022292
         }
     ]
 }

@@ -1,10 +1,15 @@
 {
-    "update_time_utc": "2025-11-28 21:39:37 UTC",
+    "update_time_utc": "2025-11-28 21:52:07 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": 10.187448682685908
+        },
+        {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": 4.482031893724604
         },
         {
             "代码": "META",
@@ -95,11 +100,6 @@
             "代码": "CMCSA",
             "名称": "Comcast Corporation",
             "Percent": 0.4516403485573782
-        },
-        {
-            "代码": "CRSP",
-            "名称": "CRISPR Therapeutics AG",
-            "Percent": 0.31895306956096986
         }
     ],
     "top_down_20": [

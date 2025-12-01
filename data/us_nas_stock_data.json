@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-01 21:38:17 UTC",
+    "update_time_utc": "2025-12-01 21:51:57 UTC",
     "top_up_20": [
         {
             "代码": "NVDA",
@@ -40,11 +40,6 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 0.2829961661327639
-        },
-        {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": -0.006973703038441704
         },
         {
             "代码": "QCOM",
@@ -100,6 +95,11 @@
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -1.5619143059681828
+        },
+        {
+            "代码": "GOOGL",
+            "名称": "Alphabet Inc.",
+            "Percent": -1.6521888151519997
         }
     ],
     "top_down_20": [
@@ -184,11 +184,6 @@
             "Percent": -0.029747785619137927
         },
         {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": -0.006973703038441704
-        },
-        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 0.2829961661327639
@@ -202,6 +197,11 @@
             "代码": "ADBE",
             "名称": "Adobe Inc.",
             "Percent": 0.849655196081609
+        },
+        {
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": 1.0251439985533155
         }
     ]
 }

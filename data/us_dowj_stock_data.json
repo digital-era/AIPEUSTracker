@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-11-28 22:53:27 UTC",
+    "update_time_utc": "2025-12-01 14:25:55 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
@@ -52,6 +52,11 @@
             "Percent": 1.2923956753710064
         },
         {
+            "代码": "DOW",
+            "名称": "Dow Inc.",
+            "Percent": 1.2309037440623045
+        },
+        {
             "代码": "GS",
             "名称": "The Goldman Sachs Group, Inc.",
             "Percent": 1.2291476993768207
@@ -95,11 +100,6 @@
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
             "Percent": 0.5626211747233015
-        },
-        {
-            "代码": "AAPL",
-            "名称": "Apple Inc.",
-            "Percent": 0.4683906927485042
         }
     ],
     "top_down_20": [
@@ -117,11 +117,6 @@
             "代码": "JNJ",
             "名称": "Johnson & Johnson",
             "Percent": -0.30834428462920316
-        },
-        {
-            "代码": "DOW",
-            "名称": "Dow Inc.",
-            "Percent": -0.2509387968435175
         },
         {
             "代码": "MCD",
@@ -202,6 +197,11 @@
             "代码": "MMM",
             "名称": "3M Company",
             "Percent": 0.7318501040197349
+        },
+        {
+            "代码": "DIS",
+            "名称": "The Walt Disney Company",
+            "Percent": 1.005511855804665
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-02 21:22:49 UTC",
+    "update_time_utc": "2025-12-02 21:39:53 UTC",
     "top_up_20": [
         {
             "代码": "INTC",
@@ -109,6 +109,11 @@
             "Percent": -2.05678427678122
         },
         {
+            "代码": "AVGO",
+            "名称": "Broadcom Inc.",
+            "Percent": -1.168146343996701
+        },
+        {
             "代码": "CRSP",
             "名称": "CRISPR Therapeutics AG",
             "Percent": -1.130911172317859
@@ -197,11 +202,6 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 1.1042158736779237
-        },
-        {
-            "代码": "QCOM",
-            "名称": "QUALCOMM Incorporated",
-            "Percent": 1.5829586814967382
         }
     ]
 }

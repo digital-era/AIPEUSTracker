@@ -1,207 +1,207 @@
 {
-    "update_time_utc": "2025-12-03 17:38:42 UTC",
+    "update_time_utc": "2025-12-03 17:53:45 UTC",
     "top_up_20": [
         {
             "代码": "CRCL",
             "名称": "Circle Internet Group",
-            "Percent": 9.336254519115652
+            "Percent": 9.530082906610065
         },
         {
             "代码": "HOOD",
             "名称": "Robinhood Markets, Inc.",
-            "Percent": 5.0245333954265305
+            "Percent": 5.438671115117662
         },
         {
             "代码": "COIN",
             "名称": "Coinbase Global, Inc.",
-            "Percent": 4.364502700050913
+            "Percent": 4.619577061576741
         },
         {
             "代码": "UNH",
             "名称": "UnitedHealth Group Incorporated",
-            "Percent": 3.9902573946166107
-        },
-        {
-            "代码": "AXP",
-            "名称": "American Express Company",
-            "Percent": 2.2137469036123436
+            "Percent": 3.7691756295319947
         },
         {
             "代码": "GS",
             "名称": "The Goldman Sachs Group, Inc.",
-            "Percent": 2.1000717184217517
+            "Percent": 2.350311285203252
+        },
+        {
+            "代码": "AXP",
+            "名称": "American Express Company",
+            "Percent": 2.1402830494699483
         },
         {
             "代码": "MCD",
             "名称": "McDonald's Corporation",
-            "Percent": 1.8139753092984743
+            "Percent": 1.820632509075255
         },
         {
             "代码": "HD",
             "名称": "The Home Depot, Inc.",
-            "Percent": 1.7060725265508447
+            "Percent": 1.7329067555796533
         },
         {
             "代码": "AMGN",
             "名称": "Amgen Inc.",
-            "Percent": 1.6254877166652537
-        },
-        {
-            "代码": "WMT",
-            "名称": "Walmart Inc.",
-            "Percent": 1.4856312734986836
+            "Percent": 1.6860791278011575
         },
         {
             "代码": "MRK",
             "名称": "Merck & Co., Inc.",
-            "Percent": 1.4550145882060117
-        },
-        {
-            "代码": "NKE",
-            "名称": "NIKE, Inc.",
-            "Percent": 1.3784023392266382
+            "Percent": 1.5243006375675832
         },
         {
             "代码": "CVX",
             "名称": "Chevron Corporation",
-            "Percent": 1.374377664829451
+            "Percent": 1.357732636361273
+        },
+        {
+            "代码": "NKE",
+            "名称": "NIKE, Inc.",
+            "Percent": 1.3234232281163103
+        },
+        {
+            "代码": "WMT",
+            "名称": "Walmart Inc.",
+            "Percent": 1.2454353268171614
+        },
+        {
+            "代码": "JPM",
+            "名称": "JPMorgan Chase & Co.",
+            "Percent": 1.0604729372088053
         },
         {
             "代码": "UUUU",
             "名称": "Energy Fuels Inc.",
-            "Percent": 0.9634518422040991
+            "Percent": 0.9966751935499427
         },
         {
             "代码": "CRM",
             "名称": "Salesforce, Inc.",
-            "Percent": 0.8989819564548199
+            "Percent": 0.9096307979057278
+        },
+        {
+            "代码": "CAT",
+            "名称": "Caterpillar Inc.",
+            "Percent": 0.8315355413725476
         },
         {
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
-            "Percent": 0.6771674637984202
-        },
-        {
-            "代码": "HON",
-            "名称": "Honeywell International Inc.",
-            "Percent": 0.6626967743953799
-        },
-        {
-            "代码": "JPM",
-            "名称": "JPMorgan Chase & Co.",
-            "Percent": 0.6414856672057563
-        },
-        {
-            "代码": "CAT",
-            "名称": "Caterpillar Inc.",
-            "Percent": 0.5639834403346136
+            "Percent": 0.6525471205752424
         },
         {
             "代码": "V",
             "名称": "Visa Inc.",
-            "Percent": 0.5005745770664684
-        }
-    ],
-    "top_down_20": [
-        {
-            "代码": "MP",
-            "名称": "MP Materials Corp.",
-            "Percent": -3.6198241615174416
-        },
-        {
-            "代码": "BA",
-            "名称": "The Boeing Company",
-            "Percent": -2.984713573412471
-        },
-        {
-            "代码": "MSFT",
-            "名称": "Microsoft Corporation",
-            "Percent": -1.5581652582908163
-        },
-        {
-            "代码": "TRV",
-            "名称": "The Travelers Companies, Inc.",
-            "Percent": -1.452239914374772
-        },
-        {
-            "代码": "KGC",
-            "名称": "Kinross Gold Corporation",
-            "Percent": -0.818480841553585
-        },
-        {
-            "代码": "NEM",
-            "名称": "Newmont Corporation",
-            "Percent": -0.3757780224033351
-        },
-        {
-            "代码": "GFI",
-            "名称": "Gold Fields Limited",
-            "Percent": -0.12082947261949945
-        },
-        {
-            "代码": "INTC",
-            "名称": "Intel Corporation",
-            "Percent": -0.11502887129894519
-        },
-        {
-            "代码": "AAPL",
-            "名称": "Apple Inc.",
-            "Percent": -0.027959428757520093
-        },
-        {
-            "代码": "JNJ",
-            "名称": "Johnson & Johnson",
-            "Percent": 0.07302558495306002
-        },
-        {
-            "代码": "NB",
-            "名称": "NioCorp Developments Ltd.",
-            "Percent": 0.08347436781261493
-        },
-        {
-            "代码": "DIS",
-            "名称": "The Walt Disney Company",
-            "Percent": 0.1240076801939524
-        },
-        {
-            "代码": "MMM",
-            "名称": "3M Company",
-            "Percent": 0.17778499586778182
-        },
-        {
-            "代码": "KO",
-            "名称": "The Coca-Cola Company",
-            "Percent": 0.2759299559595969
-        },
-        {
-            "代码": "DOW",
-            "名称": "Dow Inc.",
-            "Percent": 0.314328808349998
+            "Percent": 0.6219338453111882
         },
         {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
-            "Percent": 0.49433750467098175
+            "Percent": 0.4878365898284999
+        }
+    ],
+    "top_down_20": [
+        {
+            "代码": "BA",
+            "名称": "The Boeing Company",
+            "Percent": -3.374236911974219
+        },
+        {
+            "代码": "MP",
+            "名称": "MP Materials Corp.",
+            "Percent": -3.136096221662753
+        },
+        {
+            "代码": "TRV",
+            "名称": "The Travelers Companies, Inc.",
+            "Percent": -1.5458171443597215
+        },
+        {
+            "代码": "MSFT",
+            "名称": "Microsoft Corporation",
+            "Percent": -1.518367845184949
+        },
+        {
+            "代码": "KGC",
+            "名称": "Kinross Gold Corporation",
+            "Percent": -0.9818092780404362
+        },
+        {
+            "代码": "NEM",
+            "名称": "Newmont Corporation",
+            "Percent": -0.5415621960479434
+        },
+        {
+            "代码": "GFI",
+            "名称": "Gold Fields Limited",
+            "Percent": -0.20542024402077563
+        },
+        {
+            "代码": "INTC",
+            "名称": "Intel Corporation",
+            "Percent": -0.17253453147761377
+        },
+        {
+            "代码": "AAPL",
+            "名称": "Apple Inc.",
+            "Percent": -0.13278062810398178
+        },
+        {
+            "代码": "DOW",
+            "名称": "Dow Inc.",
+            "Percent": -0.09849305072811793
+        },
+        {
+            "代码": "JNJ",
+            "名称": "Johnson & Johnson",
+            "Percent": 0.10953466338295423
+        },
+        {
+            "代码": "MMM",
+            "名称": "3M Company",
+            "Percent": 0.16320749783249772
+        },
+        {
+            "代码": "DIS",
+            "名称": "The Walt Disney Company",
+            "Percent": 0.19078216612502308
+        },
+        {
+            "代码": "KO",
+            "名称": "The Coca-Cola Company",
+            "Percent": 0.22597777057577692
+        },
+        {
+            "代码": "NB",
+            "名称": "NioCorp Developments Ltd.",
+            "Percent": 0.41736387850921114
         },
         {
             "代码": "IBM",
             "名称": "International Business Machines Corporation",
-            "Percent": 0.4987092878587911
+            "Percent": 0.4490062269895812
+        },
+        {
+            "代码": "HON",
+            "名称": "Honeywell International Inc.",
+            "Percent": 0.4659638538512111
+        },
+        {
+            "代码": "CSCO",
+            "名称": "Cisco Systems, Inc.",
+            "Percent": 0.4878365898284999
         },
         {
             "代码": "V",
             "名称": "Visa Inc.",
-            "Percent": 0.5005745770664684
+            "Percent": 0.6219338453111882
         },
         {
-            "代码": "CAT",
-            "名称": "Caterpillar Inc.",
-            "Percent": 0.5639834403346136
-        },
-        {
-            "代码": "JPM",
-            "名称": "JPMorgan Chase & Co.",
-            "Percent": 0.6414856672057563
+            "代码": "VZ",
+            "名称": "Verizon Communications Inc.",
+            "Percent": 0.6525471205752424
         }
     ]
 }

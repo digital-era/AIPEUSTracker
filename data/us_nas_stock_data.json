@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-04 21:42:05 UTC",
+    "update_time_utc": "2025-12-04 21:53:25 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -87,6 +87,11 @@
             "Percent": -0.6955213345115722
         },
         {
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": -0.7118101868856754
+        },
+        {
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": -0.7444900416068458
@@ -95,11 +100,6 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": -0.7767080342070602
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -0.8384963167241722
         }
     ],
     "top_down_20": [
@@ -137,6 +137,11 @@
             "代码": "AMD",
             "名称": "Advanced Micro Devices, Inc.",
             "Percent": -0.7444900416068458
+        },
+        {
+            "代码": "NFLX",
+            "名称": "Netflix, Inc.",
+            "Percent": -0.7118101868856754
         },
         {
             "代码": "GOOG",
@@ -197,11 +202,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 2.1103672933937485
-        },
-        {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 2.3777211876562503
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-04 21:53:25 UTC",
+    "update_time_utc": "2025-12-04 22:21:07 UTC",
     "top_up_20": [
         {
             "代码": "SLDP",
@@ -104,11 +104,6 @@
     ],
     "top_down_20": [
         {
-            "代码": "INTC",
-            "名称": "Intel Corporation",
-            "Percent": -7.44972222708939
-        },
-        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -2.8630786347968553
@@ -202,6 +197,11 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 2.1103672933937485
+        },
+        {
+            "代码": "INTU",
+            "名称": "Intuit Inc.",
+            "Percent": 2.3777211876562503
         }
     ]
 }

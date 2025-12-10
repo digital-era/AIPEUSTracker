@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-10 21:56:40 UTC",
+    "update_time_utc": "2025-12-10 22:26:02 UTC",
     "top_up_20": [
         {
             "代码": "QCOM",
@@ -92,14 +92,14 @@
             "Percent": -0.6433488855235281
         },
         {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -1.039639682995509
-        },
-        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -1.579175775327642
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": -2.1960763370289524
         }
     ],
     "top_down_20": [
@@ -132,11 +132,6 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -1.579175775327642
-        },
-        {
-            "代码": "META",
-            "名称": "Meta Platforms, Inc.",
-            "Percent": -1.039639682995509
         },
         {
             "代码": "NVDA",
@@ -202,6 +197,11 @@
             "代码": "AVGO",
             "名称": "Broadcom Inc.",
             "Percent": 1.6441439698959937
+        },
+        {
+            "代码": "AMZN",
+            "名称": "Amazon.com, Inc.",
+            "Percent": 1.6935769749745013
         }
     ]
 }

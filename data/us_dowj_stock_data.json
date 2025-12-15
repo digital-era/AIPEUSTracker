@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-15 22:24:02 UTC",
+    "update_time_utc": "2025-12-15 22:45:47 UTC",
     "top_up_20": [
         {
             "代码": "AMGN",
@@ -104,9 +104,39 @@
     ],
     "top_down_20": [
         {
+            "代码": "CRCL",
+            "名称": "Circle Internet Group",
+            "Percent": -9.596264549045847
+        },
+        {
+            "代码": "NB",
+            "名称": "NioCorp Developments Ltd.",
+            "Percent": -8.252423401470896
+        },
+        {
+            "代码": "COIN",
+            "名称": "Coinbase Global, Inc.",
+            "Percent": -6.371043831052692
+        },
+        {
+            "代码": "MP",
+            "名称": "MP Materials Corp.",
+            "Percent": -6.00070867461218
+        },
+        {
+            "代码": "HOOD",
+            "名称": "Robinhood Markets, Inc.",
+            "Percent": -3.5481153671711554
+        },
+        {
             "代码": "CRM",
             "名称": "Salesforce, Inc.",
             "Percent": -2.9172897207681867
+        },
+        {
+            "代码": "DOW",
+            "名称": "Dow Inc.",
+            "Percent": -2.169372404300948
         },
         {
             "代码": "MMM",
@@ -172,36 +202,6 @@
             "代码": "AXP",
             "名称": "American Express Company",
             "Percent": 0.0026165217714554387
-        },
-        {
-            "代码": "WMT",
-            "名称": "Walmart Inc.",
-            "Percent": 0.07712422419777273
-        },
-        {
-            "代码": "GS",
-            "名称": "The Goldman Sachs Group, Inc.",
-            "Percent": 0.18356737268321457
-        },
-        {
-            "代码": "NKE",
-            "名称": "NIKE, Inc.",
-            "Percent": 0.45945983842464705
-        },
-        {
-            "代码": "JPM",
-            "名称": "JPMorgan Chase & Co.",
-            "Percent": 0.4709280584383089
-        },
-        {
-            "代码": "BA",
-            "名称": "The Boeing Company",
-            "Percent": 0.5479964235394178
-        },
-        {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": 0.5784022244097075
         }
     ]
 }

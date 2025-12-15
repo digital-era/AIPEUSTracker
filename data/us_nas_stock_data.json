@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-15 22:23:53 UTC",
+    "update_time_utc": "2025-12-15 22:45:32 UTC",
     "top_up_20": [
         {
             "代码": "CMCSA",
@@ -35,6 +35,11 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.37836531517579564
+        },
+        {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": 0.2914374702372251
         },
         {
             "代码": "GOOGL",
@@ -99,6 +104,16 @@
     ],
     "top_down_20": [
         {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": -8.220341113133493
+        },
+        {
+            "代码": "SLDP",
+            "名称": "Solid Power, Inc.",
+            "Percent": -5.4989814524907015
+        },
+        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -2.703310902180613
@@ -159,6 +174,11 @@
             "Percent": -0.3459559942633388
         },
         {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": 0.2914374702372251
+        },
+        {
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.37836531517579564
@@ -182,16 +202,6 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 0.7256250615185852
-        },
-        {
-            "代码": "NVDA",
-            "名称": "NVIDIA Corporation",
-            "Percent": 0.7256250615185852
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": 3.5989701017668225
         }
     ]
 }

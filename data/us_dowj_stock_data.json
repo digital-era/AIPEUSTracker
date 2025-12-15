@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-15 21:43:24 UTC",
+    "update_time_utc": "2025-12-15 21:55:03 UTC",
     "top_up_20": [
         {
             "代码": "AMGN",
@@ -104,6 +104,11 @@
     ],
     "top_down_20": [
         {
+            "代码": "CRM",
+            "名称": "Salesforce, Inc.",
+            "Percent": -2.9172897207681867
+        },
+        {
             "代码": "MMM",
             "名称": "3M Company",
             "Percent": -1.8946104581882963
@@ -197,11 +202,6 @@
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": 0.5784022244097075
-        },
-        {
-            "代码": "MCD",
-            "名称": "McDonald's Corporation",
-            "Percent": 0.634633037976135
         }
     ]
 }

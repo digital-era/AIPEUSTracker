@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-19 21:52:45 UTC",
+    "update_time_utc": "2025-12-19 22:23:11 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -82,11 +82,6 @@
             "Percent": 0.4008435053862282
         },
         {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 0.3617962702563115
-        },
-        {
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 0.26019210221047206
@@ -100,6 +95,11 @@
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": -0.22971719313303807
+        },
+        {
+            "代码": "TSLA",
+            "名称": "Tesla, Inc.",
+            "Percent": -0.44892792934533776
         }
     ],
     "top_down_20": [
@@ -142,11 +142,6 @@
             "代码": "AMZN",
             "名称": "Amazon.com, Inc.",
             "Percent": 0.26019210221047206
-        },
-        {
-            "代码": "INTU",
-            "名称": "Intuit Inc.",
-            "Percent": 0.3617962702563115
         },
         {
             "代码": "MSFT",
@@ -202,6 +197,11 @@
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
             "Percent": 3.5170723207700103
+        },
+        {
+            "代码": "QS",
+            "名称": "QuantumScape Corporation",
+            "Percent": 3.7205066277766026
         }
     ]
 }

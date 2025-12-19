@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2025-12-18 22:56:44 UTC",
+    "update_time_utc": "2025-12-19 14:24:51 UTC",
     "top_up_20": [
         {
             "代码": "UUUU",
@@ -87,6 +87,11 @@
             "Percent": 0.1287544541755275
         },
         {
+            "代码": "CRM",
+            "名称": "Salesforce, Inc.",
+            "Percent": 0.048892257048465976
+        },
+        {
             "代码": "MP",
             "名称": "MP Materials Corp.",
             "Percent": 0.019223787171120738
@@ -95,11 +100,6 @@
             "代码": "AXP",
             "名称": "American Express Company",
             "Percent": -0.02396004935981413
-        },
-        {
-            "代码": "NKE",
-            "名称": "NIKE, Inc.",
-            "Percent": -0.09134599750061555
         }
     ],
     "top_down_20": [
@@ -179,11 +179,6 @@
             "Percent": -0.130033722122698
         },
         {
-            "代码": "CRM",
-            "名称": "Salesforce, Inc.",
-            "Percent": -0.11234544373790305
-        },
-        {
             "代码": "NEM",
             "名称": "Newmont Corporation",
             "Percent": -0.11060896302371058
@@ -202,6 +197,11 @@
             "代码": "MP",
             "名称": "MP Materials Corp.",
             "Percent": 0.019223787171120738
+        },
+        {
+            "代码": "CRM",
+            "名称": "Salesforce, Inc.",
+            "Percent": 0.048892257048465976
         }
     ]
 }

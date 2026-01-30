@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-01-30 21:03:07 UTC",
+    "update_time_utc": "2026-01-30 21:42:29 UTC",
     "top_up_20": [
         {
             "代码": "TMUS",
@@ -34,7 +34,7 @@
         {
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
-            "Percent": 0.4052404653673577
+            "Percent": 0.39681840684010605
         },
         {
             "代码": "AVGO",
@@ -42,24 +42,19 @@
             "Percent": 0.172339003932784
         },
         {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -0.005025363197524021
-        },
-        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -0.03838802380165611
         },
         {
+            "代码": "GOOGL",
+            "名称": "Alphabet Inc.",
+            "Percent": -0.07390983000739099
+        },
+        {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": -0.14025323208407958
-        },
-        {
-            "代码": "QCOM",
-            "名称": "QUALCOMM Incorporated",
-            "Percent": -0.41387785951930106
         },
         {
             "代码": "NVDA",
@@ -100,6 +95,11 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -4.500613714706897
+        },
+        {
+            "代码": "VRT",
+            "名称": "Vertiv Holdings Co",
+            "Percent": -4.5643252182022405
         }
     ],
     "top_down_20": [
@@ -169,24 +169,19 @@
             "Percent": -0.7168405087531363
         },
         {
-            "代码": "QCOM",
-            "名称": "QUALCOMM Incorporated",
-            "Percent": -0.41387785951930106
-        },
-        {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": -0.14025323208407958
         },
         {
+            "代码": "GOOGL",
+            "名称": "Alphabet Inc.",
+            "Percent": -0.07390983000739099
+        },
+        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -0.03838802380165611
-        },
-        {
-            "代码": "GOOGL",
-            "名称": "Alphabet Inc.",
-            "Percent": -0.005025363197524021
         },
         {
             "代码": "AVGO",
@@ -196,12 +191,17 @@
         {
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
-            "Percent": 0.4052404653673577
+            "Percent": 0.39681840684010605
         },
         {
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": 0.46461677741321106
+        },
+        {
+            "代码": "ADBE",
+            "名称": "Adobe Inc.",
+            "Percent": 0.5486048815360225
         }
     ]
 }

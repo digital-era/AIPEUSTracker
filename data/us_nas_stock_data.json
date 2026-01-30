@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-01-30 21:42:29 UTC",
+    "update_time_utc": "2026-01-30 21:56:56 UTC",
     "top_up_20": [
         {
             "代码": "TMUS",
@@ -57,6 +57,11 @@
             "Percent": -0.14025323208407958
         },
         {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": -0.41387785951930106
+        },
+        {
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": -0.7168405087531363
@@ -95,11 +100,6 @@
             "代码": "INTC",
             "名称": "Intel Corporation",
             "Percent": -4.500613714706897
-        },
-        {
-            "代码": "VRT",
-            "名称": "Vertiv Holdings Co",
-            "Percent": -4.5643252182022405
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": -0.7168405087531363
         },
         {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": -0.41387785951930106
+        },
+        {
             "代码": "CSCO",
             "名称": "Cisco Systems, Inc.",
             "Percent": -0.14025323208407958
@@ -197,11 +202,6 @@
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": 0.46461677741321106
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": 0.5486048815360225
         }
     ]
 }

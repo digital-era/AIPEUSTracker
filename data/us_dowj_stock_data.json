@@ -1,10 +1,10 @@
 {
-    "update_time_utc": "2026-02-09 21:07:13 UTC",
+    "update_time_utc": "2026-02-09 21:57:18 UTC",
     "top_up_20": [
         {
             "代码": "UUUU",
             "名称": "Energy Fuels Inc.",
-            "Percent": 8.765318899803162
+            "Percent": 8.85957176696082
         },
         {
             "代码": "KGC",
@@ -14,7 +14,7 @@
         {
             "代码": "CRCL",
             "名称": "Circle Internet Group",
-            "Percent": 5.399715930788124
+            "Percent": 5.364652015215452
         },
         {
             "代码": "NB",
@@ -24,7 +24,7 @@
         {
             "代码": "NEM",
             "名称": "Newmont Corporation",
-            "Percent": 4.712970493389347
+            "Percent": 4.691296979210959
         },
         {
             "代码": "GFI",
@@ -39,12 +39,12 @@
         {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
-            "Percent": 3.134811095939642
+            "Percent": 3.106145236096221
         },
         {
             "代码": "MP",
             "名称": "MP Materials Corp.",
-            "Percent": 2.5220405255863385
+            "Percent": 2.5138768490400456
         },
         {
             "代码": "CSCO",
@@ -54,7 +54,7 @@
         {
             "代码": "CAT",
             "名称": "Caterpillar Inc.",
-            "Percent": 2.2018713805552013
+            "Percent": 2.1922311543032094
         },
         {
             "代码": "GS",
@@ -64,12 +64,12 @@
         {
             "代码": "VZ",
             "名称": "Verizon Communications Inc.",
-            "Percent": 1.4467677587496888
+            "Percent": 1.5331441663099226
         },
         {
             "代码": "CRM",
             "名称": "Salesforce, Inc.",
-            "Percent": 1.3770548329172618
+            "Percent": 1.4005709904871602
         },
         {
             "代码": "COIN",
@@ -77,19 +77,19 @@
             "Percent": 1.289973925508423
         },
         {
-            "代码": "DOW",
-            "名称": "Dow Inc.",
-            "Percent": 0.9754545602406165
-        },
-        {
             "代码": "CVX",
             "名称": "Chevron Corporation",
-            "Percent": 0.9344257634098019
+            "Percent": 0.9620731434767412
+        },
+        {
+            "代码": "DOW",
+            "名称": "Dow Inc.",
+            "Percent": 0.9439935114137528
         },
         {
             "代码": "BA",
             "名称": "The Boeing Company",
-            "Percent": 0.7036196035289034
+            "Percent": 0.6912759507092703
         },
         {
             "代码": "HON",
@@ -99,24 +99,24 @@
         {
             "代码": "AXP",
             "名称": "American Express Company",
-            "Percent": 0.13921759947018458
+            "Percent": 0.14200467055332794
         }
     ],
     "top_down_20": [
         {
             "代码": "MRK",
             "名称": "Merck & Co., Inc.",
-            "Percent": -3.5758226846871297
+            "Percent": -3.510209766738756
         },
         {
             "代码": "TRV",
             "名称": "The Travelers Companies, Inc.",
-            "Percent": -2.8773717449872582
+            "Percent": -2.87571169557447
         },
         {
             "代码": "NKE",
             "名称": "NIKE, Inc.",
-            "Percent": -2.3936151801083825
+            "Percent": -2.36232535167189
         },
         {
             "代码": "AMGN",
@@ -126,7 +126,7 @@
         {
             "代码": "V",
             "名称": "Visa Inc.",
-            "Percent": -1.8155465521016476
+            "Percent": -1.8095181383006482
         },
         {
             "代码": "WMT",
@@ -136,7 +136,7 @@
         {
             "代码": "DIS",
             "名称": "The Walt Disney Company",
-            "Percent": -1.4811413574539185
+            "Percent": -1.4443419861104307
         },
         {
             "代码": "MMM",
@@ -146,7 +146,7 @@
         {
             "代码": "KO",
             "名称": "The Coca-Cola Company",
-            "Percent": -1.3646701973815045
+            "Percent": -1.3412597430931918
         },
         {
             "代码": "AAPL",
@@ -156,12 +156,12 @@
         {
             "代码": "HD",
             "名称": "The Home Depot, Inc.",
-            "Percent": -1.1346216244162814
+            "Percent": -1.0775007042061013
         },
         {
             "代码": "IBM",
             "名称": "International Business Machines Corporation",
-            "Percent": -0.867085954563283
+            "Percent": -0.8664223735822083
         },
         {
             "代码": "INTC",
@@ -171,7 +171,7 @@
         {
             "代码": "JNJ",
             "名称": "Johnson & Johnson",
-            "Percent": -0.5916905439571566
+            "Percent": -0.5625259688383477
         },
         {
             "代码": "MCD",
@@ -181,17 +181,17 @@
         {
             "代码": "UNH",
             "名称": "UnitedHealth Group Incorporated",
-            "Percent": -0.3578493606421079
+            "Percent": -0.34338756927953695
         },
         {
             "代码": "JPM",
             "名称": "JPMorgan Chase & Co.",
-            "Percent": -0.09615309071416529
+            "Percent": -0.0930483246426703
         },
         {
             "代码": "AXP",
             "名称": "American Express Company",
-            "Percent": 0.13921759947018458
+            "Percent": 0.14200467055332794
         },
         {
             "代码": "HON",
@@ -201,7 +201,7 @@
         {
             "代码": "BA",
             "名称": "The Boeing Company",
-            "Percent": 0.7036196035289034
+            "Percent": 0.6912759507092703
         }
     ]
 }

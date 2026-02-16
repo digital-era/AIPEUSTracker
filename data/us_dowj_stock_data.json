@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-02-13 23:17:32 UTC",
+    "update_time_utc": "2026-02-16 14:44:46 UTC",
     "top_up_20": [
         {
             "代码": "COIN",
@@ -72,6 +72,11 @@
             "Percent": 1.8198640030328186
         },
         {
+            "代码": "AMGN",
+            "名称": "Amgen Inc.",
+            "Percent": 1.5150623890928867
+        },
+        {
             "代码": "BA",
             "名称": "The Boeing Company",
             "Percent": 1.5082517310612835
@@ -85,11 +90,6 @@
             "代码": "IBM",
             "名称": "International Business Machines Corporation",
             "Percent": 1.102040686734907
-        },
-        {
-            "代码": "AMGN",
-            "名称": "Amgen Inc.",
-            "Percent": 0.8164910253155886
         },
         {
             "代码": "CVX",
@@ -119,11 +119,6 @@
             "Percent": -2.2733396848946215
         },
         {
-            "代码": "MMM",
-            "名称": "3M Company",
-            "Percent": -1.5978427789819334
-        },
-        {
             "代码": "AXP",
             "名称": "American Express Company",
             "Percent": -1.5690634642434884
@@ -132,6 +127,11 @@
             "代码": "MCD",
             "名称": "McDonald's Corporation",
             "Percent": -1.3550952125869025
+        },
+        {
+            "代码": "MMM",
+            "名称": "3M Company",
+            "Percent": -1.1562989620108561
         },
         {
             "代码": "TRV",
@@ -199,9 +199,9 @@
             "Percent": 0.7346555052190247
         },
         {
-            "代码": "AMGN",
-            "名称": "Amgen Inc.",
-            "Percent": 0.8164910253155886
+            "代码": "IBM",
+            "名称": "International Business Machines Corporation",
+            "Percent": 1.102040686734907
         }
     ]
 }

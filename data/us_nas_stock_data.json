@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-02-16 17:55:46 UTC",
+    "update_time_utc": "2026-02-16 18:51:03 UTC",
     "top_up_20": [
         {
             "代码": "CRSP",
@@ -57,11 +57,6 @@
             "Percent": 0.3618460328489574
         },
         {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": 0.08871295242764267
-        },
-        {
             "代码": "MSFT",
             "名称": "Microsoft Corporation",
             "Percent": -0.12940200537794097
@@ -100,6 +95,11 @@
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -1.0828477733422928
+        },
+        {
+            "代码": "META",
+            "名称": "Meta Platforms, Inc.",
+            "Percent": -1.5450636439982504
         }
     ],
     "top_down_20": [
@@ -169,11 +169,6 @@
             "Percent": -0.12940200537794097
         },
         {
-            "代码": "TSLA",
-            "名称": "Tesla, Inc.",
-            "Percent": 0.08871295242764267
-        },
-        {
             "代码": "INTU",
             "名称": "Intuit Inc.",
             "Percent": 0.3618460328489574
@@ -202,6 +197,11 @@
             "代码": "NFLX",
             "名称": "Netflix, Inc.",
             "Percent": 1.3314027525761025
+        },
+        {
+            "代码": "QCOM",
+            "名称": "QUALCOMM Incorporated",
+            "Percent": 1.6104540390555353
         }
     ]
 }

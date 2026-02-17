@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-02-17 22:01:59 UTC",
+    "update_time_utc": "2026-02-17 22:51:25 UTC",
     "top_up_20": [
         {
             "代码": "VRT",
@@ -67,11 +67,6 @@
             "Percent": -0.07503344784083026
         },
         {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": -0.6313322597486777
-        },
-        {
             "代码": "GOOG",
             "名称": "Alphabet Inc.",
             "Percent": -1.0456773427667045
@@ -100,6 +95,11 @@
             "代码": "TSLA",
             "名称": "Tesla, Inc.",
             "Percent": -1.6313715788533305
+        },
+        {
+            "代码": "AMD",
+            "名称": "Advanced Micro Devices, Inc.",
+            "Percent": -2.0451501752714596
         }
     ],
     "top_down_20": [
@@ -159,11 +159,6 @@
             "Percent": -1.0456773427667045
         },
         {
-            "代码": "COST",
-            "名称": "Costco Wholesale Corporation",
-            "Percent": -0.6313322597486777
-        },
-        {
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": -0.07503344784083026
@@ -202,6 +197,11 @@
             "代码": "NVDA",
             "名称": "NVIDIA Corporation",
             "Percent": 1.1815566385624268
+        },
+        {
+            "代码": "AMZN",
+            "名称": "Amazon.com, Inc.",
+            "Percent": 1.187182800974616
         }
     ]
 }

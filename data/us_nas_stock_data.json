@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-02-24 21:51:15 UTC",
+    "update_time_utc": "2026-02-24 22:37:22 UTC",
     "top_up_20": [
         {
             "代码": "AMD",
@@ -57,6 +57,11 @@
             "Percent": 2.239094648979052
         },
         {
+            "代码": "AMZN",
+            "名称": "Amazon.com, Inc.",
+            "Percent": 1.6027637831418893
+        },
+        {
             "代码": "COST",
             "名称": "Costco Wholesale Corporation",
             "Percent": 1.2585924117880387
@@ -95,11 +100,6 @@
             "代码": "META",
             "名称": "Meta Platforms, Inc.",
             "Percent": 0.3216928666879168
-        },
-        {
-            "代码": "CMCSA",
-            "名称": "Comcast Corporation",
-            "Percent": -0.06322652844026938
         }
     ],
     "top_down_20": [
@@ -169,6 +169,11 @@
             "Percent": 1.2585924117880387
         },
         {
+            "代码": "AMZN",
+            "名称": "Amazon.com, Inc.",
+            "Percent": 1.6027637831418893
+        },
+        {
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": 2.239094648979052
@@ -197,11 +202,6 @@
             "代码": "VRT",
             "名称": "Vertiv Holdings Co",
             "Percent": 3.1497008333517265
-        },
-        {
-            "代码": "ADBE",
-            "名称": "Adobe Inc.",
-            "Percent": 3.441708182764026
         }
     ]
 }

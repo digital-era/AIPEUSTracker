@@ -1,5 +1,5 @@
 {
-    "update_time_utc": "2026-03-13 22:01:49 UTC",
+    "update_time_utc": "2026-03-13 22:45:48 UTC",
     "top_up_20": [
         {
             "代码": "TMUS",
@@ -30,6 +30,11 @@
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.6420774698111592
+        },
+        {
+            "代码": "COST",
+            "名称": "Costco Wholesale Corporation",
+            "Percent": 0.5093076300940572
         },
         {
             "代码": "CMCSA",
@@ -95,11 +100,6 @@
             "代码": "AAPL",
             "名称": "Apple Inc.",
             "Percent": -2.2051921765652414
-        },
-        {
-            "代码": "VRT",
-            "名称": "Vertiv Holdings Co",
-            "Percent": -2.44931791408712
         }
     ],
     "top_down_20": [
@@ -194,14 +194,14 @@
             "Percent": 0.0
         },
         {
+            "代码": "COST",
+            "名称": "Costco Wholesale Corporation",
+            "Percent": 0.5093076300940572
+        },
+        {
             "代码": "PEP",
             "名称": "PepsiCo, Inc.",
             "Percent": 0.6420774698111592
-        },
-        {
-            "代码": "CSCO",
-            "名称": "Cisco Systems, Inc.",
-            "Percent": 0.7589451807280351
         }
     ]
 }

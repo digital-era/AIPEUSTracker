@@ -26,7 +26,7 @@ INDEX_TICKERS = {
     "nasdaq": "^IXIC",
     "dowjones": "^DJI",
     "gold": "GC=F",      # COMEX Gold Futures
-     "dollar": "DX=F"  US Dollar Index
+     "dollar": "DX-Y.NYB"  US Dollar Index
 }
 
 # 输出文件路径
